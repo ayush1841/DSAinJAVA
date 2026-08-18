@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/ayush1841/DSAinJAVA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush1841/DSAinJAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush1841/DSAinJAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ayush1841/DSAinJAVA/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
