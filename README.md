@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush1841/DSAinJAVA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ayush1841/DSAinJAVA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/ayush1841/DSAinJAVA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ayush1841/DSAinJAVA/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush1841/DSAinJAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
