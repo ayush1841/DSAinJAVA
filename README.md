@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayush1841/DSAinJAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush1841/DSAinJAVA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ayush1841/DSAinJAVA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ayush1841/DSAinJAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush1841/DSAinJAVA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush1841/DSAinJAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayush1841/DSAinJAVA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush1841/DSAinJAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/ayush1841/DSAinJAVA/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
@@ -163,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayush1841/DSAinJAVA/tree/master/1872-stone-game-viii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
