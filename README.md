@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush1841/DSAinJAVA/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/ayush1841/DSAinJAVA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayush1841/DSAinJAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush1841/DSAinJAVA/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayush1841/DSAinJAVA/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/ayush1841/DSAinJAVA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ayush1841/DSAinJAVA/tree/master/1872-stone-game-viii) |
 ## Minimax
