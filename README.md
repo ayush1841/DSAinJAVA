@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/ayush1841/DSAinJAVA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush1841/DSAinJAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/ayush1841/DSAinJAVA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush1841/DSAinJAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush1841/DSAinJAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayush1841/DSAinJAVA/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/ayush1841/DSAinJAVA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ayush1841/DSAinJAVA/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ayush1841/DSAinJAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayush1841/DSAinJAVA/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
