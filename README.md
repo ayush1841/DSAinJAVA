@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush1841/DSAinJAVA/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayush1841/DSAinJAVA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayush1841/DSAinJAVA/tree/master/0205-isomorphic-strings) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayush1841/DSAinJAVA/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/ayush1841/DSAinJAVA/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush1841/DSAinJAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
