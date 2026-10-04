@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush1841/DSAinJAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/ayush1841/DSAinJAVA/tree/master/1927-sum-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayush1841/DSAinJAVA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush1841/DSAinJAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush1841/DSAinJAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush1841/DSAinJAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/ayush1841/DSAinJAVA/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
