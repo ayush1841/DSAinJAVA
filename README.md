@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ayush1841/DSAinJAVA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush1841/DSAinJAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayush1841/DSAinJAVA/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0678-valid-parenthesis-string) |
 | [1510-stone-game-iv](https://github.com/ayush1841/DSAinJAVA/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush1841/DSAinJAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ayush1841/DSAinJAVA/tree/master/1872-stone-game-viii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush1841/DSAinJAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ayush1841/DSAinJAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayush1841/DSAinJAVA/tree/master/2029-stone-game-ix) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ayush1841/DSAinJAVA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush1841/DSAinJAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
